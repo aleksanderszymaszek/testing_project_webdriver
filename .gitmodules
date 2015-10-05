@@ -1,0 +1,6 @@
+[submodule "Desktop/test/Common"]
+	path = Desktop/test/Common
+	url = git@gitlab:qa/common.git
+[submodule "Desktop/TestingProject_2/Common"]
+	path = Desktop/TestingProject_2/Common
+	url = git@gitlab:qa/common.git
